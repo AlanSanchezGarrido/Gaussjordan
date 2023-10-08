@@ -1,4 +1,6 @@
-//alan sanchez garrido
+//alan sanchez garrid
+
+//segunda prueba de subir a git
 package gauss_jordan;
 
 import java.util.*;
@@ -7,6 +9,7 @@ public class Gauss_Jordan {
 
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
+        System.out.println("este programa fue realizado para una materia de algebralineal");
         System.out.println("\n ESTE PROGRAMA SOLO DA RESULTADOS EN DECIMALES");
         
         System.out.print("Ingrese el numero de ecuaciones que utilizaras: ");
