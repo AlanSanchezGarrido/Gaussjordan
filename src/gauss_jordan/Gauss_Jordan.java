@@ -1,4 +1,4 @@
-
+//alan sanchez garrido
 package gauss_jordan;
 
 import java.util.*;
